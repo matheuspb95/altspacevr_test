@@ -1,1 +1,1 @@
-{"uploadEntries":[{"AltspaceId":"2181547506867896979","Name":"ALTSPACE_TEST","IsEnabled":true,"UploadItems":[{"PrefabFilepath":"Assets\\Scenes\\SampleScene.unity","ForAndroid":true,"ForWin":true,"ForMac":true}],"PerPlatformAssets":false,"HideContents":false}]}
+{"uploadEntries":[{"AltspaceId":"","Name":"ALTSPACE_TEST","IsEnabled":true,"UploadItems":[{"PrefabFilepath":"Assets\\Scenes\\SampleScene.unity","ForAndroid":true,"ForWin":true,"ForMac":true}],"PerPlatformAssets":false,"HideContents":false}]}
